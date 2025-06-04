@@ -12,6 +12,20 @@
     "statusBar.background": "#161A0E",
     "titleBar.activeBackground": "#161A0E",
 
+
+"terminal.background": "#1b2713",
+"terminal.foreground": "#EAEFD3",
+"terminalCursor.background": "#EAEFD3",
+"terminalCursor.foreground": "#EAEFD3",
+
+"tab.activeBackground": "#161A0E",
+"tab.inactiveBackground": "#161A0E",
+"tab.border": "#161A0E",
+"tab.activeBorderTop": "#EAEFD3",
+
+"terminalTab.activeBorder": "#EAEFD3"
+
+
   "tab.activeBackground": "#161A0E",
   "tab.inactiveBackground": "#161A0E",
   "tab.border": "#161A0E",
