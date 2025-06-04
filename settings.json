@@ -1,0 +1,41 @@
+{
+  // Font
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+
+  // Background color for editor only
+  "workbench.colorCustomizations": {
+    "editor.background": "#161A0E",
+    "editorGroupHeader.tabsBackground": "#1b2713",
+    "editorGroupHeader.emptyBackground": "#FFFFFF",
+    "sideBar.background": "#161A0E",
+    "activityBar.background": "#161A0E",
+    "statusBar.background": "#161A0E",
+    "titleBar.activeBackground": "#161A0E",
+
+  "tab.activeBackground": "#161A0E",
+  "tab.inactiveBackground": "#161A0E",
+  "tab.border": "#161A0E",
+  "tab.activeBorder": "#EAEFD3",         // Optional: border color of active tab
+  "tab.hoverBackground": "#1F2315"        // Slightly lighter for hover effect
+
+   "sideBarTitle.foreground": "#EAEFD3",        // text color for Explorer title
+  "sideBarSectionHeader.background": "#161A0E",// header background (Explorer sections)
+  "list.activeSelectionBackground": "#2A2E16", // selected item background in Explorer
+  "list.hoverBackground": "#1F2315",           // hover color for items
+  "list.inactiveSelectionBackground": "#232812" // selection bg when out of focus
+  },
+
+  // Editor behavior
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.mouseWheelZoom": true,
+  "editor.cursorBlinking": "smooth"
+  
+  // Make sure Prettier formatting still works
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Optional: prettier config to avoid conflicts
+  "prettier.disableLanguages": []
+}
+
