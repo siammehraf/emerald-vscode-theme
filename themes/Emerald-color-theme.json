@@ -1,0 +1,20 @@
+{
+  "name": "Emerald Color Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#161A0E",
+    "editorGroupHeader.tabsBackground": "#1b2713",
+    "sideBar.background": "#161A0E",
+    "activityBar.background": "#161A0E",
+    "statusBar.background": "#161A0E",
+    "titleBar.activeBackground": "#161A0E",
+    "terminal.background": "#1b2713",
+    "terminal.foreground": "#EAEFD3",
+    "tab.activeBackground": "#161A0E",
+    "tab.inactiveBackground": "#161A0E",
+    "tab.activeBorderTop": "#EAEFD3",
+    "sideBarTitle.foreground": "#EAEFD3",
+    "list.activeSelectionBackground": "#2A2E16"
+  },
+  "tokenColors": []
+}
