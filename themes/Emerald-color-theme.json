@@ -26,36 +26,5 @@
     "list.hoverBackground": "#1F2315",
     "list.inactiveSelectionBackground": "#232812"
   },
-  "tokenColors": [
-    {
-      "scope": "source",
-      "settings": {
-        "foreground": "#EAEFD3"
-      }
-    },
-    {
-      "scope": "keyword",
-      "settings": {
-        "foreground": "#89DDFF"
-      }
-    },
-    {
-      "scope": "string",
-      "settings": {
-        "foreground": "#D4FF00"
-      }
-    },
-    {
-      "scope": "comment",
-      "settings": {
-        "foreground": "#6A9955"
-      }
-    },
-    {
-      "scope": "punctuation",
-      "settings": {
-        "foreground": "#FFAB00"
-      }
-    }
-  ]
+  "tokenColors": []
 }
