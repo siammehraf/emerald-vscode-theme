@@ -2,7 +2,7 @@
   "name": "emerald-vscode-theme",
   "displayName": "Emerald Theme",
   "description": "A dark, elegant green-themed color scheme for Visual Studio Code.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "siammehraf",
   "engines": {
     "vscode": "^1.85.0"
