@@ -18,6 +18,6 @@ Emerald is a custom Visual Studio Code theme that offers a soothing dark backgro
 
 Search for **Emerald Theme** in the VS Code Extensions Marketplace and install it.
 
-## Version 0.0.5
+## Version 0.0.7
 
-New Token Colors Added!
+Token Colors Are Now Working Properly!
